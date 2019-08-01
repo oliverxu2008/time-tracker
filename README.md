@@ -5,3 +5,5 @@ Java (Maven) application for tracking time on the job
 This is a demo repo.
 
 Time tracker
+
+## Updates from Dev 1
